@@ -4,7 +4,7 @@ I am a full stack developer with +4 years of experience. I have a passion for we
 
 <hr>
 
-- 🔭 I’m currently working on Unosquare company.
+- 🔭 I’m currently working in Unosquare company.
 - 🌱 I’m currently studying for Vuejs certification.
 - 👯 I’m looking for a new challenge.
 - 📫 How to reach me:
